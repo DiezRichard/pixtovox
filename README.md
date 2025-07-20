@@ -1,2 +1,8 @@
 # pixtovox
-pixel art drawing and animation turned into 3D voxel art. us threejs
+pixel art drawing and animation tool that turns it into 3D voxel art using threejs.
+
+link: 
+https://pixtovox.pages.dev
+
+
+
